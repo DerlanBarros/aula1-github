@@ -28,6 +28,8 @@ public class Program {
 		double avg = sum / vect.length;
 		System.out.println("AVERAGE PRICE = " + avg);
 
+		System.out.println("Bom Dia!");
+		
 		sc.close();
 	}
 
